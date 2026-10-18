@@ -1,0 +1,6 @@
+{
+  "name": "Black Anime",
+  "description": "Black Anime application for streaming anime and series",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
